@@ -14,5 +14,5 @@
 <img src="zadd.png" alt="Getting started" />
 
 ## Update a present Blog.
-<img src="zedit.png" alt="Getting started" />
+<img src="zEdit.png" alt="Getting started" />
 
