@@ -4,7 +4,8 @@
 * {
   margin: 0;
   font-family: "Quicksand";
-  color: #333;
+  color:white;
+  background-color: black;
 }
 
 /* BACKGROUNG VIDEO */
@@ -50,6 +51,7 @@
 .navbar a {
   text-decoration: none;
   padding: 6px;
+  color: white;
 }
 .navbar a:hover {
   color: #f1356d;

@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "DP",
-      "body": "I can not solve even a single problem",
-      "author": "soumya chaudhary",
-      "id": 6
-    },
-    {
       "title": "WEB DEV",
       "body": "React JS,HTML,CSS,JS",
       "author": "Deepak",
